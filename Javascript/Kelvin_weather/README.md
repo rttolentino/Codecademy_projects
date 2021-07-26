@@ -1,0 +1,2 @@
+Project: Kelvin Weather:
+Purpose: General Javascript basics. Do some basic math and "console.log" stuff to convert a value to different temperature scale. Also, why not use a new branch, right? Show that I know what a branch is and everything. Very impressive, yes?
