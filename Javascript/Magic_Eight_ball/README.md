@@ -1,0 +1,2 @@
+Project: Magic Eight Ball
+Purpose: More Javascript basics. This time it is case statements: Use a random number generator to answer a question with what I'm pretty sure are the standard Magic Eight Ball answers.
